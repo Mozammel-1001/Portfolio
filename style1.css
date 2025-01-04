@@ -1,0 +1,58 @@
+body {
+  background-color: azure;
+}
+
+header {
+  float: right;
+}
+
+#intro {
+  font-weight: bold;
+}
+
+h1 {
+  color: darkturquoise;
+}
+
+.alignment {
+  text-align: center;
+}
+
+#align-border {
+  text-align: center;
+  border: 3px solid darkturquoise;
+  border-radius: 8px;
+  padding: 7px;
+}
+
+#width {
+  width: 100%;
+}
+
+div {
+  border: 3px solid darkturquoise;
+  border-radius: 8px;
+}
+
+fieldset {
+  border: 3px solid darkturquoise;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+#mail {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: azure;
+}
+
+#arrow {
+  float: right;
+}
+
+#avtar {
+  width: 280px;
+}

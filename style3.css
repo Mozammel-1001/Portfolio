@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+}
+header{
+    float: right;
+}
+fieldset{
+    border: 3px solid darkturquoise;
+    border-radius: 8px;
+    padding: 10px;
+}
+#mail{
+    font-size: 18px;
+    font-weight: bold;
+}
+footer{
+    background-color: azure;
+}
+img{
+    float: right;
+}
